@@ -1,4 +1,4 @@
-# flipperscope
+# flipper_cardiograph
 
 To compile and install
 

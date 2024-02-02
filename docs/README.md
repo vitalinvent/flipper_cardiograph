@@ -1,6 +1,6 @@
-## flipperscope
+## flipper_cardiograph
 
-Oscilloscope application - apply signal to pin 16/PC0, with a voltage ranging from 0V to 2.5V and ground to pin 18/GND.
+Electro cardio graph application based on AD8232 board for the flipper zero, apply signal to pin 16/PC0, with a voltage ranging from 0V to 2.5V and ground to pin 18/GND.
 
 ## Guide
 
@@ -13,4 +13,4 @@ Oscilloscope application - apply signal to pin 16/PC0, with a voltage ranging fr
 * Setup screen enables you to choose to measure the maximum, minimum and peak-to-peak voltage, with the Voltage option.
 
 * Setup screen also enables you to choose the capture mode, to save samples to the SD card (currently 128 samples).  You can
-parse this data using the Python script in the flipperscope repo.
+parse this data using the Python script in the flipper_cardiograph repo.
