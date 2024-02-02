@@ -1,7 +1,7 @@
 App(
-    appid="flipperscope",
-    name="flipperscope",
-    fap_author="anfractuosity",
+    appid="cardiograph",
+    name="cardiograph",
+    fap_author="vitalinvent",
     apptype=FlipperAppType.EXTERNAL,
     entry_point="scope_main",
     requires=["gui"],
@@ -10,5 +10,5 @@ App(
     fap_icon="scope_10px.png",
     fap_icon_assets="icons",
     fap_version="0.2",
-    fap_description="Oscilloscope application - apply signal to pin 16/PC0, with a voltage ranging from 0V to 2.5V and ground to pin 18/GND"
+    fap_description="Electro cardio graph application based on AD8232 board, apply signal to pin 16/PC0, with a voltage ranging from 0V to 2.5V and ground to pin 18/GND"
 )
