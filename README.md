@@ -10,7 +10,7 @@ git clone https://github.com/vitalinvent/flipper_cardiograph.git
 
 fbt fap_cardiograph
 
-cd build\f7-firmware-D\.extapps
+cd build\f7-firmware-D\\.extapps
 
 explorer .
 
