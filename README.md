@@ -17,3 +17,5 @@ explorer .
 here compiled *.fap (application) files, copy to flipper cd card 'apps' dir
 
 ![Flipper Zero running flipper cardiograph](photos/flipper_cardiograph.jpg)
+
+![Flipper Zero connections AD8232 cardiograph](photos/flipper_cardiograph_001.jpg)
