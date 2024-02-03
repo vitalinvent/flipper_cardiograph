@@ -24,7 +24,7 @@ typedef struct {
 } timeperiod;
 
 static const timeperiod time_list[] =
-    {{5e-2, "0.01s"}, {7e-3, "0.01s"}, {4e-3, "1ms"}, {0.1e-3, "0.1ms"}, {1e-6, "1us"}};
+    {{7e-3, "7ms"}, {4e-3, "4ms"}, {2e-3, "2ms"}, {0.1e-3, "0.1ms"}, {1e-6, "1us"}};
 
 enum measureenum { m_time, m_voltage, m_capture };
 
