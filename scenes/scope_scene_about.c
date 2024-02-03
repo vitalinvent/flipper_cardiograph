@@ -18,6 +18,7 @@ void scope_scene_about_on_enter(void* context) {
         "Provide signal to pin 16/PC0, with a voltage ranging from 0V to 2.5V and ground to pin 18/GND.\n\n");
     furi_string_cat_printf(temp_str, "Developed by: %s\n", S_DEVELOPED);
     furi_string_cat_printf(temp_str, "Github: %s\n\n", S_GITHUB);
+    furi_string_cat_printf(temp_str, "Github fork from: %s\n\n", S_GITHUB_FORK_SRC);
 
     widget_add_text_box_element(
         app->widget,
